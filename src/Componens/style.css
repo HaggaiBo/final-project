@@ -1,0 +1,311 @@
+body {
+  /*  https://wallpaperaccess.com/full/8096111.jpg*/
+  background: url("https://i.pinimg.com/originals/08/c2/68/08c268fad81436465e4c65f6de141cdb.png")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 100%;
+  color: #c7faff;
+  font-family: "Verdana";
+}
+
+.leageTable {
+  color: aliceblue;
+}
+
+td {
+  color: aliceblue;
+  padding: 0px;
+}
+
+.leave-space {
+  height: 100vh;
+}
+
+
+.shadowSuper {
+  box-shadow: 0 0 100px rgba(15, 0, 0, 0.99), 0 6px 6px rgba(29, 0, 0, 0.23);
+}
+
+.cc {
+  color: rgb(14, 123, 123);
+}
+
+.grayPic img {
+  transition: 1s ease;
+}
+
+.grayPic img:hover {
+  opacity: 1;
+  transition: 1s ease;
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+  transition: 0.7s ease;
+}
+
+.match {
+  background-color: #212529;
+  color: #e8c061;
+  width: 320px;
+  height: 120px;
+  box-shadow: 3px 3px 2px rgba(130, 130, 130, 0.253);
+}
+
+.match:hover {
+  background-color: #793a41;
+  opacity: 1;
+  transition: 1s ease;
+  -webkit-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.1);
+  transition: 0.7s ease;
+  color: white;
+}
+
+.box1 {
+  background-color: #793a41;
+}
+
+.oddBox {
+  color: white;
+}
+
+.oddBox:hover {
+  color: black;
+  transition: 0.5s ease;
+}
+
+.selected {
+  border-radius: 5px;
+  color: black;
+  background-color: #fbab7e;
+  background-image: linear-gradient(to bottom right, #fdfcfb, #e2d1c3);
+  box-shadow: 0 0 100px rgba(15, 0, 0, 0.99), 0 6px 6px rgba(29, 0, 0, 0.23);
+}
+
+.imgLeagues {
+  height: 80vh;
+  background: url("https://wallpaper.dog/large/20445048.jpg") no-repeat center
+    center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.titleleagu {
+  background: #e8c061;
+  background: linear-gradient(to right, #e8c061 0%, #000000 80%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-style: italic;
+}
+
+
+.namesInLeagu {
+  background: #6b6b6b;
+  background: linear-gradient(to right, #000000 0%, #000000 50%, #000000 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border-left: white 2px solid;
+  border-bottom: white 2px solid;
+  font-weight: bolder;
+}
+
+.leaguAtHome {
+  background: url("https://t3.ftcdn.net/jpg/02/08/74/22/360_F_208742204_1e3xzcEkUSrHe7GTw2XCOQSGWNm85gkw.webp")
+    no-repeat center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.span1Home {
+  font-size: 6.8em;
+  color: #ffffff;
+  letter-spacing: 0.1em;
+  font-weight: bold;
+  display: block;
+  font: italic;
+}
+
+.span2Home {
+  font-size: 3em;
+  color: #e8c061;
+  font-style: italic;
+  font-weight: light;
+}
+
+.paButton {
+  height: 55px;
+  width: 200px;
+  background-color: white;
+  font-style: italic;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.paButton:hover {
+  background-color: #2d2e2d;
+  opacity: 1;
+  transition: 0.5s ease;
+  color: white;
+}
+
+.arrowBox {
+  height: 55px;
+  width: 55px;
+  background-color: #e8c061;
+}
+
+.leftHomeLegue {
+  height: 100%;
+  background: url("https://images.pling.com/img/00/00/49/41/10/1226772/72ccdfc9877a41431c0021c72d05ab610288.jpg")
+    no-repeat center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.lButton {
+  height: 55px;
+  width: 150px;
+  background-color: #e8c061;
+  margin-top: 10px;
+}
+
+.lButton:hover {
+  background-color: #5a363a;
+  transition: 0.5s ease;
+  color: white;
+}
+
+.d{
+  background-color: #7a4444;
+}
+.ll {
+  background-color: #2d2e2d;
+}
+
+.lastHome {
+  background: url("https://static.wixstatic.com/media/b596b0_51e78f0d63004bc2a90e0a57126d6a84~mv2.png/v1/fill/w_980,h_686,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/b596b0_51e78f0d63004bc2a90e0a57126d6a84~mv2.png")
+    no-repeat center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.lastHom2 {
+  background-color: #ffffff3f;
+}
+
+.newsHome {
+  text-decoration: none;
+  height: 500px;
+  width: 400px;
+  background-color: #5a363a;
+  --c: #cacaca; /* the border color */
+  --b: 1px; /* the border thickness*/
+  --g: 5px; /* the gap on hover */
+
+  padding: calc(var(--g) + var(--b));
+  --_g: #0000 25%, var(--c) 0;
+  background: conic-gradient(
+        from 180deg at top var(--b) right var(--b),
+        var(--_g)
+      )
+      var(--_i, 200%) 0 /200% var(--_i, var(--b)) no-repeat,
+    conic-gradient(at bottom var(--b) left var(--b), var(--_g)) 0
+      var(--_i, 200%) / var(--_i, var(--b)) 200% no-repeat;
+  transition: 0.3s, background-position 0.3s 0.3s;
+  cursor: pointer;
+}
+
+.newsHome:hover {
+  --_i: 100%;
+  transition: 0.3s, background-size 0.3s 0.3s;
+  transition: 0.5s ease;
+}
+
+.midPersAre {
+  background: url("https://iphoneswallpapers.com/wp-content/uploads/2018/12/Messi-and-Ronaldo-Football-iPhone-Wallpaper.jpg")
+    no-repeat center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.paBets {
+  background: url("https://wallpapercrafter.com/sizes/3840x2160/243302-black-and-white-monochrome-soccer-and-football-hd.jpg")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  
+}
+
+.test {
+  background-color: #e8c0610a;
+  
+}
+
+.nextBets {
+  transition: 0.5s ease;
+  border-left: white 1px solid;
+
+  color: rgb(255, 255, 255);
+}
+
+.nextBets:hover {
+  transition: 0.5s ease;
+  color: #ddc455;
+  
+}
+
+
+.logTit{
+  font-style: italic;
+  font-weight: bold;
+}
+
+.logIn{
+  background: url("https://media.istockphoto.com/id/1168591951/photo/sport-backgrounds-soccer-stadium-soccer-ball-on-stadium-football-poster.jpg?s=612x612&w=0&k=20&c=ea8zbsk6XAOaeffnWNoanDAG6FfoqjyhRSHhfKSIcKw=")
+  no-repeat center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+background-size: cover;
+-o-background-size: cover;
+}
+
+.logInHeader{
+   color: #83929a ;
+   font-size: 1em;
+   transition: 0.2s ease;
+
+}
+
+.logInHeader:hover{
+  cursor: pointer;
+  color: #d2d2d26f;
+  transition: 0.2s ease;
+}
+
+.feeldsname{
+  line-height: 0.5em;
+  color:#f5f5f5;
+  font-weight: bold;
+  font-style:italic;
+}
+
+.li_css_admin:hover {
+  color: black;
+  cursor: pointer;
+}
